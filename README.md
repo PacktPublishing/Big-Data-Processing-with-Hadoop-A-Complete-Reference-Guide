@@ -36,7 +36,7 @@ The code will look like the following:
 </property>
 ```
 
-**Following is what you need for this book:**
+#### Following is what you need for this book:
 If you want to become a big data professional by mastering the advanced concepts of Hadoop, this Learning Path is for you. You’ll also find it useful if you’re a Hadoop professional looking to strengthen your knowledge of the Hadoop ecosystem. Fundamental knowledge of the Java programming language and Hadoop basics is necessary to get started with this Learning Path.
 
 
